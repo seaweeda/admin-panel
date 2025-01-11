@@ -18,7 +18,7 @@ const Hero = () => {
             </h3>
 
             <a
-              className="inline-block bg-white rounded-md px-6 py-3 hover:bg-accent hover:text-white"
+              className="inline-block bg-white rounded-md px-6 py-3 hover:bg-[#B22222] hover:text-white"
               href="#"
             >
               Shop Now!

@@ -13,7 +13,7 @@ export default withUt({
         accent: "#0989FF",
         topHeadingPrimary: "#010f1c",
         topHeadingSecondary: "#021d35",
-        pink: "#800000",
+        pink: "#FD486B",
       },
 
       container: {
